@@ -46,6 +46,7 @@ Name | Author | Free
 [Language files for Menu Setup module.](https://github.com/mstojanovv/PerfexCRM-menu_setup) | mstojanovv | y
 [Language files for Goals module.](https://github.com/mstojanovv/PerfexCRM-goals) | mstojanovv | y
 [Language files for Theme Style module.](https://github.com/mstojanovv/PerfexCRM-theme_style) | mstojanovv | y
+[Arabic][https://github.com/amolood/Perfex-crm-arabic-translation] | Amolood | y
 
 ### Hacks
 
